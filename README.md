@@ -2,4 +2,4 @@
 > Allen Boggess
 ***
 
-Hello there
+This a lab to learn the basics of Git and Github
